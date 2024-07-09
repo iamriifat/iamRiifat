@@ -1,4 +1,5 @@
-## Hi there, I am Sakibul Hassan Rifat👋
+
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=680&size=25&duration=3500&pause=500&color=A225F7&width=600&height=45&lines=Hey+there!+This+is+Rifat+😊;Welcome+to+my+profile+🧡" alt="Typing SVG" /></a></b></h1>
 
 <!--
 **iamRiifat/iamRiifat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

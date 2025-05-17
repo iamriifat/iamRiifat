@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=680&size=25&duration=3500&pause=500&color=A225F7&center=true&vCenter=true&width=600&height=45&lines=Hey+there!+This+is+Rifat+😊;Welcome+to+my+profile+🧡" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=200&section=header&text=Hey%20there!%20I'm%20Rifat%20😊&fontSize=35&fontColor=ffffff" />
 </h1>
 
 ---

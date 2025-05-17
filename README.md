@@ -1,7 +1,5 @@
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=680&size=25&duration=3500&pause=500&color=A225F7&width=600&height=45&lines=Hey+there!+This+is+Rifat+😊;Welcome+to+my+profile+🧡" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=680&size=25&duration=3500&pause=500&color=A225F7&center=true&vCenter=true&width=600&height=45&lines=Hey+there!+This+is+Rifat+😊;Welcome+to+my+profile+🧡" alt="Typing SVG" />
 </h1>
 
 ---
@@ -24,6 +22,3 @@
 - 🧠 [Google Scholar](https://scholar.google.com/) *(add your link here)*
 
 ---
-
-### ⚡ Fun Fact
-> I reverse names for fun: "rifat rahman" becomes "**namhar tafir**" 😄

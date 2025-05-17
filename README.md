@@ -1,6 +1,16 @@
 <h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=200&section=header&text=Hey%20there!%20I'm%20Rifat%20😊&fontSize=35&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=A225F7&height=200&section=header&text=Hey%20there!%20I'm%20Rifat%20😊&fontSize=35&fontColor=ffffff" />
 </h1>
+
+<h3 align="center">
+  Welcome to my GitHub profile...👨‍💻🚀
+</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iamRiifat&show_icons=true&theme=radical" />
+  <br>
+  <img src="https://streak-stats.demolab.com?user=iamRiifat&theme=radical&hide_border=false" />
+</p>
+
 
 ---
 

@@ -1,17 +1,29 @@
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=680&size=25&duration=3500&pause=500&color=A225F7&width=600&height=45&lines=Hey+there!+This+is+Rifat+😊;Welcome+to+my+profile+🧡" alt="Typing SVG" />
+  </a>
+</h1>
 
-<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=680&size=25&duration=3500&pause=500&color=A225F7&width=600&height=45&lines=Hey+there!+This+is+Rifat+😊;Welcome+to+my+profile+🧡" alt="Typing SVG" /></a></b></h1>
+---
 
-<!--
-**iamRiifat/iamRiifat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👋 About Me
 
-Here are some ideas to get you started:
+- 🎓 CSE Undergraduate | Bangladesh University of Business & Technology
+- 💻 Passionate about Deep Learning, Machine Learning, and Computer Vision
+- 🧠 Researcher | Competitive Programmer | ICPC Asia Dhaka Regionalist
+- 🚀 Currently working on Fake News Detection (FakeStack), ViT-UNet for Spectrogram Denoising
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 I’m Currently Learning
+- Transformers & Vision Models
+- Advanced Deep Learning Architectures
+- Research Paper Writing & Reproducibility
+
+### 📫 How to Reach Me
+- 📧 Email: sakibulhassanrifat01@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/sakibulrifat)
+- 🧠 [Google Scholar](https://scholar.google.com/) *(add your link here)*
+
+---
+
+### ⚡ Fun Fact
+> I reverse names for fun: "rifat rahman" becomes "**namhar tafir**" 😄

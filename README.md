@@ -9,16 +9,16 @@
 - 🎓 CSE Undergraduate | Bangladesh University of Business & Technology
 - 💻 Passionate about Deep Learning, Machine Learning, and Computer Vision
 - 🧠 Researcher | Competitive Programmer | ICPC Asia Dhaka Regionalist
-- 🚀 Currently working on Fake News Detection (FakeStack), ViT-UNet for Spectrogram Denoising
 
 ### 🌱 I’m Currently Learning
-- Transformers & Vision Models
 - Advanced Deep Learning Architectures
-- Research Paper Writing & Reproducibility
-
+  
 ### 📫 How to Reach Me
 - 📧 Email: sakibulhassanrifat01@gmail.com
+
+<!--
+
 - 💼 [LinkedIn](https://www.linkedin.com/in/sakibulrifat)
 - 🧠 [Google Scholar](https://scholar.google.com/) *(add your link here)*
-
+-->
 ---
